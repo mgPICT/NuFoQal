@@ -24,7 +24,7 @@ Prepare your image data:
 
 Start the NuFoQ script by running the NuFoQ.m script for the editor from its folder. The user interface should appear shortly after.
 
-<img width="514" height="440" alt="maingui" src="https://github.com/user-attachments/assets/ab0ef0f6-5b39-478b-8f51-c1cb354efcc6" />
+<img width="508" height="427" alt="main_gui" src="https://github.com/user-attachments/assets/4caa1e35-bb78-44aa-bbda-fcd31515235d" />
 
 # Set parameters
 Choose wether you want to analyse a single file or a complete folder.
@@ -44,11 +44,10 @@ The *Set parameters* button opens a new dialog box with the following entries to
   - *Low signal* flag indicating very bad signal to noise ratio and will remove some denoising steps,
   - *Number of std above the mean for spots* filter to remove peaks with an intensity lower than the average of their nucleus plus a certain amount of the nucleus intensity standard deviation. This value can be any rational number.
 
-<img width="255" height="452" alt="setparams" src="https://github.com/user-attachments/assets/061c8010-e3c4-4b25-9f7e-b380dc311463" />
-
+<img width="510" height="434" alt="gui_params" src="https://github.com/user-attachments/assets/c6c7c694-1717-4c83-91f4-84f462e00ba7" />
 
 # Check and supervise segmentation outputs
-<img width="2442" height="1402" alt="check" src="https://github.com/user-attachments/assets/06a87fca-557e-4dfe-baaf-0c5591aafc21" />
+<img width="2442" height="1402" alt="gui_filter" src="https://github.com/user-attachments/assets/5ecdb2a3-74c8-4d56-a71b-8d6d98d9cc3e" />
 
 # Output files
 - Analysis:
