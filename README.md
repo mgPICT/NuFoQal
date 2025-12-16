@@ -50,6 +50,9 @@ The *Set parameters* button opens a new dialog box with the following entries to
 <img width="2442" height="1402" alt="check_1" src="https://github.com/user-attachments/assets/25b6f74d-1788-40e9-83fd-c6626639f0f9" />
 <img width="2442" height="1402" alt="check_2" src="https://github.com/user-attachments/assets/22735ede-daf4-4c7c-b5f7-9b7c534b8439" />
 
+User interface showing the segmentation outlines and allowing to ajust the display (projection, gray-level range, channels).
+Nuclei and spots can be selected by clicking inside their outlines or in the list and flagged as removed from further analysis.
+
 # Output files
 - Analysis:
   - *filename*.nucs: all quantification of nuclei,
