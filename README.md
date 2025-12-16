@@ -52,6 +52,7 @@ The *Set parameters* button opens a new dialog box with the following entries to
 
 User interface showing the segmentation outlines and allowing to ajust the display (projection, gray-level range, channels).
 Nuclei and spots can be selected by clicking inside their outlines or in the list and flagged as removed from further analysis.
+Kept objects are in green, discarded ones in red and the selected objects are in yellow.
 
 # Output files
 - Analysis:
