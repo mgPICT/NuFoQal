@@ -44,10 +44,11 @@ The *Set parameters* button opens a new dialog box with the following entries to
   - *Low signal* flag indicating very bad signal to noise ratio and will remove some denoising steps,
   - *Number of std above the mean for spots* filter to remove peaks with an intensity lower than the average of their nucleus plus a certain amount of the nucleus intensity standard deviation. This value can be any rational number.
 
-<img width="510" height="434" alt="gui_params" src="https://github.com/user-attachments/assets/c6c7c694-1717-4c83-91f4-84f462e00ba7" />
+<img width="510" height="434" alt="gui_param" src="https://github.com/user-attachments/assets/c8a4d59c-5bb9-4c32-bfd1-4e09dfeaab25" />
 
 # Check and supervise segmentation outputs
-<img width="2442" height="1402" alt="gui_filter" src="https://github.com/user-attachments/assets/5ecdb2a3-74c8-4d56-a71b-8d6d98d9cc3e" />
+<img width="2442" height="1402" alt="check_1" src="https://github.com/user-attachments/assets/25b6f74d-1788-40e9-83fd-c6626639f0f9" />
+<img width="2442" height="1402" alt="check_2" src="https://github.com/user-attachments/assets/22735ede-daf4-4c7c-b5f7-9b7c534b8439" />
 
 # Output files
 - Analysis:
