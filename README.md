@@ -47,12 +47,11 @@ The *Set parameters* button opens a new dialog box with the following entries to
 <img width="510" height="434" alt="gui_param" src="https://github.com/user-attachments/assets/c8a4d59c-5bb9-4c32-bfd1-4e09dfeaab25" />
 
 # Check and supervise segmentation outputs
-<img width="2442" height="1402" alt="check_1" src="https://github.com/user-attachments/assets/25b6f74d-1788-40e9-83fd-c6626639f0f9" />
-<img width="2442" height="1402" alt="check_2" src="https://github.com/user-attachments/assets/22735ede-daf4-4c7c-b5f7-9b7c534b8439" />
+<img width="2442" height="1402" alt="check_1" src="https://github.com/user-attachments/assets/80955b00-e12c-4b07-b02e-72475393605d" />
+<img width="2442" height="1402" alt="check_2" src="https://github.com/user-attachments/assets/0c8334bc-73f3-4730-9997-ae6388ed7745" />
 
-User interface showing the segmentation outlines and allowing to ajust the display (projection, gray-level range, channels).
+User interface showing the segmentation outlines and allowing to ajust the display (projection, gray-level range, channels and colormap).
 Nuclei and spots can be selected by clicking inside their outlines or in the list and flagged as removed from further analysis.
-Kept objects are in green, discarded ones in red and the selected objects are in yellow.
 
 # Output files
 - Analysis:
